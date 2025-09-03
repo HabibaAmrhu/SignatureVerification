@@ -175,17 +175,7 @@ The system has been extensively tested with:
 
 Consistent **98% accuracy** achieved across all test scenarios.
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
 
@@ -195,8 +185,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For questions or support, please open an issue on GitHub or contact the development team.
+-[Habiba Amr](linkedin.com/in/habiba360)
 
 ---
-
-**Built with ❤️ using Python, NumPy, and Streamlit**
