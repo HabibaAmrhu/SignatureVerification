@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Live Demo](https://your-app-url.streamlit.app)
+- [Live Demo](https://signature-verification-ai.streamlit.app/#second-signature)
 - [Documentation](https://github.com/yourusername/signature-verification/wiki)
 - [Issues](https://github.com/yourusername/signature-verification/issues)
 
